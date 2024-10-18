@@ -17,7 +17,10 @@ img {
   max-width: 400;
   padding: 30px;
 }
-
+footer {
+  text-align: center;
+  font-family: monospace;
+}
 .subtitle {
   font-size: 36px;
   font-weight: 900;
@@ -25,4 +28,8 @@ img {
 }
 .container {
   margin: 0 auto;
+}
+
+.name {
+  color: rgb(249, 3, 204);
 }
