@@ -21,6 +21,11 @@ footer {
   text-align: center;
   font-family: monospace;
 }
+
+a {
+  color: rgb(249, 3, 204);
+}
+
 .subtitle {
   font-size: 36px;
   font-weight: 900;
